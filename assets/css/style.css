@@ -154,7 +154,7 @@ header .navbar ul li a:hover {
 #menu {
     font-size: 3rem;
     cursor: pointer;
-    color: rgb(24, 2, 63);
+    color: rgb(250 235 215);
     display: none;
 }
 
@@ -187,15 +187,15 @@ header .navbar ul li a:hover {
         display: block;
         padding: 1rem;
         text-align: left;
-        color: #fff;
+        color: #ffdead;
         font-size: 2rem;
     }
     header .navbar ul li a.active,
     header .navbar ul li a:hover {
         padding: 1rem;
-        color: #fff;
+        color: #fc8c05;
         border-radius: 0.5rem;
-        border-bottom: 0.5rem solid #011aff;
+        border-bottom: 0.5rem solid #fc8c05;
     }
     .fa-times {
         transform: rotate(180deg);
@@ -250,9 +250,10 @@ header .navbar ul li a:hover {
 }
 
 .home .image img {
-    width: 50%;
-    height: 58vh;
-    margin-left: 20rem;
+    width: 63%;
+    margin-top: 65px;
+    margin-left: 137px;
+    height: 82vh;
     border-radius: 5%;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
     cursor: pointer;
@@ -491,7 +492,7 @@ header .navbar ul li a:hover {
 }
 
 .about .row .content .box-container .box p span {
-    color: rgb(255 255 255);
+    color: #ffae00;
 }
 
 .resumebtn {
@@ -833,8 +834,9 @@ header .navbar ul li a:hover {
     align-items: center;
     height: 4.5rem;
     width: 100%;
+    color: whitesmoke;
     padding-left: 1rem;
-    background: #ffd900;
+    background: #432f9b;
 }
 
 .work .box-container .box .content .tag h3 {
@@ -1156,13 +1158,22 @@ header .navbar ul li a:hover {
 
 .contact .content .image-box {
     max-width: 60%;
-    margin-left: 4rem;
+    margin-left: -10rem;
 }
 
 .contact .content .image-box img {
-    width: 100%;
+    width: 40rem;
     height: 40rem;
+    margin-left: 75px;
+    border-radius: 48%;
     position: relative;
+    box-shadow: 1px 2px 32px wheat;
+    ;
+}
+
+.contact .content .image-box img:hover {
+    box-shadow: 1px 2px 41px 5px wheat;
+    ;
 }
 
 .contact .content form {
@@ -1341,6 +1352,7 @@ form .button-area {
 .footer .box-container .box h3 {
     font-size: 2.5rem;
     color: #fff;
+    font-family: system-ui;
     padding-bottom: 1rem;
     font-weight: normal;
 }
@@ -1354,7 +1366,7 @@ form .button-area {
 
 .footer .box-container .box p i {
     padding-right: 1rem;
-    color: #ffae00;
+    color: #fc8c05;
 }
 
 .footer .box-container .box a {
@@ -1472,7 +1484,7 @@ form .button-area {
     right: 2rem;
     padding: 1rem 1.5rem;
     font-size: 2rem;
-    background: #ffae00;
+    background: #fc8c05;
     color: rgb(13, 0, 44);
     border-radius: 50%;
     transition: 1s linear;
