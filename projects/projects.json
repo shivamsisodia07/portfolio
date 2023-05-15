@@ -9,13 +9,13 @@
         }
     },
     {
-        "name": "CodeAi",
-        "desc": "A clone version of chat gpt with an elegant ui . It communicates with the advanced GPT3 model API.",
-        "image": "codeai",
+        "name": "Portfolio",
+        "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+        "image": "portfolio",
         "category": "webapp",
         "links": {
-            "view": "https://codex-dusky.vercel.app/",
-            "code": "https://github.com/shivamsisodia07/codex"
+            "view": "https://shivam-sisodia.netlify.app/",
+            "code": "https://github.com/shivamsisodia07/portfolio"
         }
     },
     {
@@ -46,6 +46,16 @@
         "links": {
             "view": "https://shivamsisodia07.github.io/weatherApp/",
             "code": "https://github.com/shivamsisodia07/weatherApp"
+        }
+    },
+    {
+        "name": "CodeAi",
+        "desc": "A clone version of chat gpt with an elegant ui . It communicates with the advanced GPT3 model API.",
+        "image": "codeai",
+        "category": "webapp",
+        "links": {
+            "view": "https://codex-dusky.vercel.app/",
+            "code": "https://github.com/shivamsisodia07/codex"
         }
     },
     {

@@ -38,11 +38,20 @@ html::-webkit-scrollbar {
 }
 
 html::-webkit-scrollbar-track {
-    background: rgb(235, 202, 245);
+    background: #0e2431;
 }
 
 html::-webkit-scrollbar-thumb {
-    background: #420177;
+    border-radius: 20px;
+    background: #ffdead;
+}
+
+html::-webkit-scrollbar-track:hover {
+    background: #eb8305;
+}
+
+html::-webkit-scrollbar-thumb:hover {
+    background: #0e2431;
 }
 
 
@@ -115,7 +124,7 @@ header .logo i {
 }
 
 header .logo:hover {
-    color: whitesmoke;
+    color: #ffdead;
 }
 
 header .navbar ul {
