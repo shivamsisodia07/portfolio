@@ -9,6 +9,16 @@
         }
     },
     {
+        "name": "Dtu Iss",
+        "desc": "Developed and maintained Delhi Technological University International Students' Society website as part of a team of front-end developers.Used ",
+        "image": "dtu iss",
+        "category": "webapp",
+        "links": {
+            "view": "https://iss.kafmission.org/",
+            "code": ""
+        }
+    },
+    {
         "name": "Portfolio",
         "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
         "image": "portfolio",
@@ -26,6 +36,15 @@
         "links": {
             "view": "https://shivamsisodia07.github.io/e-commerce/",
             "code": "https://github.com/shivamsisodia07/e-commerce"
+        }
+    }, {
+        "name": "Add to cart project",
+        "desc": "The add to cart React project is a simple application that allows users to add products to a shopping cart.  ",
+        "image": "addtocart",
+        "category": "react app",
+        "links": {
+            "view": "https://shivamsisodia07.github.io/Addcart/",
+            "code": "https://github.com/shivamsisodia07/Addcart"
         }
     },
     {
